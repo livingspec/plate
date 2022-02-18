@@ -1,5 +1,16 @@
 # @udecode/plate-core
 
+## 10.1.0
+
+### Minor Changes
+
+- [#1381](https://github.com/udecode/plate/pull/1381) by [@zbeyens](https://github.com/zbeyens) –
+  - vendor:
+    - upgrade slate to "0.72.8"
+    - upgrade slate-react to "0.72.9"
+    - upgrade zustand to "3.7.0"
+  - new component for testing: `PlateTest`
+
 ## 10.0.0
 
 ### Minor Changes

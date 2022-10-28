@@ -1,5 +1,11 @@
 # @udecode/plate-core
 
+## 18.6.0
+
+### Patch Changes
+
+- [#1953](https://github.com/udecode/plate/pull/1953) by [@zbeyens](https://github.com/zbeyens) – `applyDeepToNodes`: new option `path`
+
 ## 18.2.0
 
 ### Minor Changes
